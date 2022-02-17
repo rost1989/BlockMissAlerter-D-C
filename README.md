@@ -1,5 +1,5 @@
 # BlockMissAlerter + Spaming messages in telegram
-Copy file "
+Copy file "Alert+TG_SPAM.py"
 You will need to get bot token from @BotFather in telegram. You will also need receiver id to send messages to. 
 To run python script on Ubuntu you will need to install python, pip, telepot and make script executable:
 - to install pip:
